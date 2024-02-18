@@ -1,2 +1,1 @@
 Hi JavaScript. 
-JavaScript is the best. 
